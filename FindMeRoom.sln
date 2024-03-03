@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMeRoom", "FindMeRoom.csproj", "{F2FC1F7A-3BC5-43BD-90CB-EBC34577D1FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2FC1F7A-3BC5-43BD-90CB-EBC34577D1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FC1F7A-3BC5-43BD-90CB-EBC34577D1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FC1F7A-3BC5-43BD-90CB-EBC34577D1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FC1F7A-3BC5-43BD-90CB-EBC34577D1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C2E34D-BEBF-4F5D-9E7F-5C114E61E3C2}
+	EndGlobalSection
+EndGlobal
